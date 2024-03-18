@@ -1,10 +1,10 @@
 {
-  "bininfo": "VISA",
-  "genbin": "654768xxxxxxxxxx",
-  "country": "United States",
-  "state": "New York",
-  "city": "New York",
-  "zip": "10080",
+  "bininfo": "JCB",
+  "genbin": "358299xxxxxxxxxx",
+  "country": "Japan",
+  "state": "Yokohama",
+  "city": "Yokohama",
+  "zip": "220-0000",
   "url": "https://telegra.ph/file/b4449174062301e751133.jpg",
   "tuccv": "000",
   "tuccv2": "009"
